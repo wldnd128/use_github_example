@@ -1,5 +1,8 @@
 rss 시스템
 1. 깃 허브 사용법
+    - 코드 수정시 : git add .
+    - 코드 수정된거 확인 : git status
+    - 깃허브로 보내기 : git push origin master
 2. 디스코드 봇 만들기
 3. 서버를 계속 열어 둬야 하는가 체크
 4. monitor rss를 사용
